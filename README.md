@@ -8,10 +8,10 @@
 
 ## Estruturas Lineares
 * Lista  
-> * Simples
-> * Com cabeça
-> * Duplamente
-> * Circulares  
+  * Simples
+  * Com cabeça
+  * Duplamente
+  * Circulares  
 * Fila
 * Pilha
 
