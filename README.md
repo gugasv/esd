@@ -11,7 +11,7 @@
   * [Sem cabeça](https://github.com/gugasv/esd/tree/master/list/singly)
   * [Com cabeça](https://github.com/gugasv/esd/tree/master/list/sentinel)
   * [Duplamente](https://github.com/gugasv/esd/tree/master/list/doubly)
-  * Circulares  
+  * [Duplamente](https://github.com/gugasv/esd/tree/master/list/circular)
 * [Fila](https://github.com/gugasv/esd/tree/master/queue)
 * [Pilha](https://github.com/gugasv/esd/tree/master/stack)
 
