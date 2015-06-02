@@ -12,8 +12,8 @@
   * Com cabeça
   * Duplamente
   * Circulares  
-* Fila
-* Pilha
+* [Fila](https://github.com/gugasv/esd/tree/master/queue)
+* [Pilha](https://github.com/gugasv/esd/tree/master/stack)
 
 ## Estruturas Não Lineares
 * Árvore Binárias
