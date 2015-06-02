@@ -1,4 +1,4 @@
-# Estrutura de Dados - Lista sem cabeça
+# Estrutura de Dados - Lista duplamente encadeada
 
 ![Lista sem cabeça][list]
 
@@ -8,6 +8,7 @@ Obs: Apesar de na lista nós podermos adicionar e remover um elemento em qualque
 typedef struct node {
     int data;
     struct node *next;
+    struct node *prev;
 } Node;
 ```
 
@@ -27,4 +28,4 @@ int remNode(Node **list, int data);
 void printList(Node *list);
 ```
 
-[list]: http://en.wikipedia.org/wiki/File:Singly-linked-list.svg "Fonte: http://en.wikipedia.org/wiki/File:Singly-linked-list.svg"
+[list]: http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png "Fonte: http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png"
