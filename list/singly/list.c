@@ -93,12 +93,20 @@ int main() {
     
     addNode(list, 5);
     printList(list);
+
+//    addNode(list, 6);
+//    printList(list);
+//    
+//    addNode(list, 7);
+//    printList(list);
+//    
+//    addNode(list, 8);
+//    printList(list);
     
-    addNode(list, 6);
-    printList(list);
+//    remNode(&list, 3);
+//    printList(list);
     
-    remNode(&list, 3);
-    printList(list);
+    invert(list);
     
     return 1;
 }

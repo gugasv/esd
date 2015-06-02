@@ -13,6 +13,7 @@ Node * createNode(int data) {
     
     if (node != NULL) {
         node->data = data;
+        node->next = NULL;
     }
     
     return node;
@@ -47,9 +48,6 @@ int enqueue(Queue *queue, int data) {
 
 int dequeue(Queue *queue) {
     Node *tmp;
-    
-    // Fail
-    if (tmp == NULL) return 0;
     
     // Nada para remover
     if (isEmpty(queue)) return 0;

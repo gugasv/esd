@@ -13,6 +13,7 @@ Node * createNode(int data) {
 
     if (node != NULL) {
         node->data = data;
+        node->next = NULL;
     }
     
     return node;
