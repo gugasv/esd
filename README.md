@@ -8,8 +8,8 @@
 
 ## Estruturas Lineares
 * Lista  
-  * Simples
-  * Com cabeça
+  * [Sem cabeça](https://github.com/gugasv/esd/tree/master/list/singly)
+  * [Com cabeça](https://github.com/gugasv/esd/tree/master/list/sentinel)
   * Duplamente
   * Circulares  
 * [Fila](https://github.com/gugasv/esd/tree/master/queue)
